@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\hp owner\\source\\repos\\ball_pit\\modules\\physics\\physics-ball.ixx",
+        "ProvidedModule": "Physics.Ball",
+        "ImportedModules": [
+            "Physics.Utils",
+            "Util.BasicTypes",
+            "Util.EnumUtils",
+            "World"
+        ],
+        "ImportedHeaderUnits": []
+    }
+}

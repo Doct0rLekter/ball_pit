@@ -1,0 +1,9 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\hp owner\\source\\repos\\ball_pit\\modules\\util\\enum-utils.ixx",
+        "ProvidedModule": "Util.EnumUtils",
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

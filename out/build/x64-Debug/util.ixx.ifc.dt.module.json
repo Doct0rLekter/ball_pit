@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\hp owner\\source\\repos\\ball_pit\\modules\\util\\util.ixx",
+        "ProvidedModule": "Util",
+        "ImportedModules": [
+            "Util.BasicTypes",
+            "Util.EnumUtils",
+            "Util.RandomGenerator",
+            "Util.Stopwatch"
+        ],
+        "ImportedHeaderUnits": []
+    }
+}

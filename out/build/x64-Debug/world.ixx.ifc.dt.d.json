@@ -1,0 +1,10 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\hp owner\\source\\repos\\ball_pit\\modules\\world\\world.ixx",
+        "ProvidedModule": "World",
+        "Includes": [],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

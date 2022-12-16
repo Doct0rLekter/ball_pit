@@ -1,0 +1,9 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\hp owner\\source\\repos\\ball_pit\\modules\\util\\stopwatch.ixx",
+        "ProvidedModule": "Util.Stopwatch",
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

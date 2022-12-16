@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\hp owner\\source\\repos\\ball_pit\\modules\\physics\\quad-tree.ixx",
+        "ProvidedModule": "Physics.QuadTree",
+        "ImportedModules": [
+            "Physics.Ball",
+            "Physics.Utils",
+            "Util.BasicTypes",
+            "Util.EnumUtils"
+        ],
+        "ImportedHeaderUnits": []
+    }
+}

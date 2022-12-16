@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\hp owner\\source\\repos\\ball_pit\\modules\\physics\\physics-engine.ixx",
+        "ProvidedModule": "Physics.Engine",
+        "ImportedModules": [
+            "Physics.Ball",
+            "Physics.QuadTree",
+            "World"
+        ],
+        "ImportedHeaderUnits": []
+    }
+}

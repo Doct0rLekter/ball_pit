@@ -1,0 +1,11 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\hp owner\\source\\repos\\ball_pit\\modules\\util\\basic-types.ixx",
+        "ProvidedModule": "Util.BasicTypes",
+        "ImportedModules": [
+            "Bridges.PGE"
+        ],
+        "ImportedHeaderUnits": []
+    }
+}
