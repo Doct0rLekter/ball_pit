@@ -208,7 +208,7 @@ private:
 int main()
 {
     BallPit ball_pit_game;
-    if (ball_pit_game.Construct({ Width(640), Height(480), PixelWidth(2), PixelHeight(2) }))
+    if (ball_pit_game.Construct({ Width(680), Height(380), PixelWidth(2), PixelHeight(2) }))
     {
         ball_pit_game.Start();
     }
